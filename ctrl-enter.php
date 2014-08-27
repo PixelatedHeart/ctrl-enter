@@ -1,9 +1,9 @@
 <?php 
 
 /*
-Plugin Name: Ctrl+Enter Published Comments & Posts
-Plugin URI: http://wordpress.org/plugins/ctrl-enter-publishes/
-Description: Now you can publish your posts from admin and your comments in your page with Ctrl/Cmd+Enter.
+Plugin Name: Ctrl+Enter Publishes Comments
+Plugin URI: http://wordpress.org/plugins/ctrl-enter/
+Description: Now you can publish your comments in your page with Ctrl/Cmd+Enter.
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDUEBSM9QRPDU
 Version: 0.1
 Author: Rafa Poveda 
