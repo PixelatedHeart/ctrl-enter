@@ -11,7 +11,7 @@ Now you can publish your comments in your page with Ctrl/Cmd+Enter.
 
 == Description ==
 
-Now you can publish your comments in your page with Ctrl/Cmd+Enter
+Now you can publish your comments in your page with Ctrl/Cmd+Enter.
 == Installation ==
 
 Opt 1:
