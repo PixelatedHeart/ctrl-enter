@@ -5,6 +5,7 @@ Tags: wordpress, comment, publish
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 0.1
+License: GPLv2
 
 Now you can publish your comments in your page with Ctrl/Cmd+Enter.
 
@@ -28,9 +29,11 @@ Opt 2:
 
 == Screenshots ==
  
+== Frequently Asked Questions ==
+
+== Upgrade Notice ==
 
 == Changelog ==
 
 = 0.1 =
 * First release
-
