@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: Ctrl+Enter Publishes Comments
-Plugin URI: http://wordpress.org/plugins/ctrl-enter/
+Plugin URI: http://wordpress.org/plugins/ctrlenter-publishes-comments/
 Description: Now you can publish your comments in your page with Ctrl/Cmd+Enter.
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDUEBSM9QRPDU
-Version: 0.1
+Version: 0.2
 Author: Rafa Poveda 
 Author URI: http://raven.es/
 License: GPL2
@@ -41,7 +41,7 @@ function ctrlenterpublishescomment() { ?>
                 }
                 if (e.keyCode == 13 && e.metaKey) { // keyCode 13 is Enter
                     document.getElementById("submit").click(); // submit the form by hitting cmd + enter
-                    // alert('test'); // to know other keyCodes of each keys
+                    // alert(e.keyCode); // to know other keyCodes of each keys
                     return false; // preventing default action
                 }
             }
