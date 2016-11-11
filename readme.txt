@@ -17,19 +17,24 @@ Now you can publish your comments in your page with Ctrl/Cmd+Enter.
 Opt 1:
 
 1. Go to Plugins -> Menu -> Add new
-2. Search for `upper menu`
+2. Search for `Ctrl+Enter publishes comments`
 3. Install the plugin
 4. Activate the plugin
 
 Opt 2:
 
-1. Download the plugin from http://downloads.wordpress.org/plugin/ctrl-enter.zip
-2. Upload `upper-menu` directory to the `/wp-content/plugins/` directory
+1. Download the plugin from https://downloads.wordpress.org/plugin/ctrlenter-publishes-comments.zip
+2. Upload `ctrlenter-publishes-comments` directory to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
+
+
  
 == Frequently Asked Questions ==
+
+* It works for every theme?
+It doesn't work for P2 or O2 themes, as they create the comments on the fly via javascript. It works for all the other themes.
 
 == Upgrade Notice ==
 
@@ -37,3 +42,6 @@ Opt 2:
 
 = 0.1 =
 * First release
+
+= 0.2 =
+* Update for new versions - no major changes
