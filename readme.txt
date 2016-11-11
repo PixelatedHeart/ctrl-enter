@@ -29,7 +29,7 @@ Opt 2:
 
 == Screenshots ==
 
-
+1. Example of comment
  
 == Frequently Asked Questions ==
 
