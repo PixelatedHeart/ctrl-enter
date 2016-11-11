@@ -38,6 +38,8 @@ It doesn't work for P2 or O2 themes, as they create the comments on the fly via 
 
 == Upgrade Notice ==
 
+Plugin working for WP 4.6.1 and 4.7.
+
 == Changelog ==
 
 = 0.1 =
