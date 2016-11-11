@@ -3,8 +3,8 @@ Contributors: bi0xid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDUEBSM9QRPDU
 Tags: wordpress, comment, publish
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 0.1
+Tested up to: 4.6.1
+Stable tag: 0.2
 License: GPLv2
 
 Now you can publish your comments in your page with Ctrl/Cmd+Enter.
